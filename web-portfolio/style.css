@@ -1,0 +1,236 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.home {
+    background-image: url('nature.jpg');
+   
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1,p
+{
+    color: white;
+    text-align: center;
+    font-size: 6vh;
+  
+}
+h1
+{
+    padding: 18% 23% 1% 23%;
+    color:rgb(56, 243, 186);
+}
+p
+{
+padding: 1% 3%;
+}
+.paragraph
+{
+    font-size: 20px;
+}
+.overlay
+{
+    position:absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 10;
+    background-color: rgba(0, 0, 0, 0.6);
+} 
+.about
+{
+padding:70px 90px 0px 90px;
+}
+.image-src
+{
+   border-radius: 150px; 
+   width: 15%;
+   height: 26vh;
+   margin-bottom: 20px;
+ 
+}
+.header-hello
+{
+    color: black;
+    font-size: 4vh;
+    color:rgb(56, 243, 186);
+}
+.p-hello
+{
+    color: black;
+    font-size: 14px;
+    padding: 5px 250px;
+
+    
+}
+.skills
+{
+    padding:0px 40px 40px 40px; 
+}
+.table-2
+{
+   
+    margin-top: 0.4%;
+}
+tr{
+    margin-bottom: 20%;
+}
+td
+{
+    padding: 70px;
+}
+.get-h1
+{
+    color:rgb(56, 243, 186);
+    margin-bottom: 20px;
+
+}
+.footer
+{
+    height: 40px;
+    background-color: rgb(56, 243, 186);
+    padding: 25px;
+}
+.get-in-touch
+{
+    padding:70px 90px 70px 90px;
+}
+
+.get-p
+{
+    color: black;
+    font-size: 16px;
+}
+#get-p
+{
+    color: rgb(56, 243, 186);
+}
+.get-button
+{
+    border-radius: 10px;
+    border: 2px solid  rgb(56, 243, 186) ;
+    padding: 12px 24px;
+    background-color:  rgb(56, 243, 186) ;
+    margin-top: 20px;
+}
+
+span
+{
+padding-left: 20px;
+font-size: 13px;
+}
+.skills
+{
+padding:  90px 150px 50px 150px;
+}
+.skill-img
+{
+    width: 150px;
+    border-radius: 80px;
+    height: 20vh;
+    margin-left: 35%;
+
+}
+.skills-green
+{
+    color:  rgb(56, 243, 186) ;
+    font-size: 13px;
+    text-align: left;
+    
+}
+.skills-p
+{
+    font-size: 13px;
+    color: black; 
+    text-align: left; 
+}
+.skills-green-2
+{
+    color:  rgb(56, 243, 186) ;
+    font-size: 13px;
+    text-align: left;
+    margin-left: 6%;
+    
+}
+.skills-p-2
+{
+    font-size: 13px;
+    color: black; 
+    text-align: left; 
+    margin-left: 6%;
+}
+
+
+span{
+
+    color:  rgb(56, 243, 186) ;
+}
+ul li {
+    list-style: none;
+}
+.long-p
+{
+    color:black;
+    font-size:15px ;
+    padding-left: 130px;
+    text-align: left;
+    margin-top: 2%;
+}
+.skill-img-1
+{
+    width: 150px;
+    border-radius: 80px;
+    height: 20vh;
+    margin-left: 3%;
+}
+.container
+{
+    display: flex;
+    padding-top: 70px;
+
+}
+.big-container
+{
+    padding: 4px 90px;
+}
+
+/*
+{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.home
+{     
+    background-image: url('images.jpg');
+    background-repeat: no-repeat;
+}
+h1,p
+{
+    color: white;
+}
+h1
+{
+ padding: 15% 30% 3% 30%;
+}
+p
+{
+    padding: 0% 30% 2% 30%;
+}
+.button-explore
+{
+    border-radius: 30px;
+    padding: 12px 24px;
+}
+.about
+{
+
+}
+.border-radius-img
+{
+
+}
